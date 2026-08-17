@@ -1,4 +1,3 @@
-Yes — I’ll use the uploaded README content as the base and give you one complete README.md code, with the ~/github-stats, ~/contributions, and Contribution Snake sections excluded, as requested.
 
 <div align="center">
 
