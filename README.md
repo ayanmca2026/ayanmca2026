@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Ayan Ghosh
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=AI%2FML+Engineer+%7C+Python+Developer;Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+Data+Science;Building+AI-Powered+Applications;Think+%E2%86%92+Build+%E2%86%92+Deploy+%E2%86%92+Improve+%F0%9F%9A%80" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer+%7C+Python+Developer;Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+Data+Science;Building+AI-Powered+Applications;Think+%E2%86%92+Build+%E2%86%92+Deploy+%E2%86%92+Improve+%F0%9F%9A%80" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -16,10 +16,13 @@
 
 <p align="center">
   <a href="https://github.com/ayanmca2026">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-ayanmca2026-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/ayan-ghosh-45209b290">
+    <img src="https://img.shields.io/badge/LinkedIn-Ayan%20Ghosh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://ayan-portfolio008.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Live%20Website-00F7FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
@@ -447,13 +450,30 @@ Thanks for visiting my profile. 👋
 
 <p align="center">
 
-<a href="https://github.com/ayanmca2026">
-<img src="https://img.shields.io/badge/GitHub-ayanmca2026-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/ayanmca2026" target="_blank">
+  <img src="https://img.shields.io/badge/💻_GitHub-ayanmca2026-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/ayan-ghosh-45209b290" target="_blank">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-Ayan%20Ghosh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+<a href="https://ayan-portfolio008.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_Portfolio-Live%20Website-00F7FF?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+## 🔗 Explore My Work
+
+<p align="center">
+
+|                       💻 GitHub                      |                            💼 LinkedIn                            |                          🌐 Portfolio                         |
+| :--------------------------------------------------: | :---------------------------------------------------------------: | :-----------------------------------------------------------: |
+|                  **Code & Projects**                 |                      **Professional Profile**                     |                       **Live Projects**                       |
+| [**Visit GitHub →**](https://github.com/ayanmca2026) | [**Connect →**](https://www.linkedin.com/in/ayan-ghosh-45209b290) | [**View Portfolio →**](https://ayan-portfolio008.vercel.app/) |
 
 </p>
 
@@ -488,6 +508,7 @@ Thanks for visiting my profile. 👋
 **© 2026 Ayan Ghosh**
 
 </p>
+
 
 
 
