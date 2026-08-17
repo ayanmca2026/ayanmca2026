@@ -1,354 +1,494 @@
 # 👋 Hey, I'm Ayan Ghosh
 
-### `AI/ML Engineer` · `Machine Learning` · `Deep Learning` · `Python`
-
-> **Building intelligent systems, experimenting with AI, and turning data into useful products.**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=AI%2FML+Engineer+%7C+Python+Developer;Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+Data+Science;Building+AI-Powered+Applications;Think+%E2%86%92+Build+%E2%86%92+Deploy+%E2%86%92+Improve+%F0%9F%9A%80" alt="Typing Animation" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=AI%2FML+Engineer;Machine+Learning+Developer;Deep+Learning+Enthusiast;Python+Developer;Building+AI-powered+applications" alt="Typing SVG" />
+  <strong>🤖 AI/ML Engineer • 🧠 Machine Learning • 🔥 Deep Learning • 🐍 Python</strong>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayanmca2026&label=PROFILE%20VIEWS&color=00F7FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ayanmca2026?label=FOLLOWERS&style=for-the-badge&color=111827&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/ayanmca2026?label=STARS&style=for-the-badge&color=111827&logo=github" alt="Stars" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ayanmca2026">
-    <img src="https://img.shields.io/github/followers/ayanmca2026?label=Followers&style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/ayanmca2026?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-Explore-00F7FF?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## `~/about-me`
+## 🧬 `~/identity`
+
+```text
+┌──────────────────────────────────────────────────────────────────┐
+│                         AYAN GHOSH                               │
+├──────────────────────────────────────────────────────────────────┤
+│                                                                  │
+│  🤖 ROLE        → AI/ML Engineer                                 │
+│  🐍 PRIMARY     → Python                                        │
+│  🧠 SPECIALTY   → Machine Learning + Deep Learning              │
+│  👁️ DOMAIN      → Computer Vision + Data Science                │
+│  🎓 EDUCATION   → MCA @ Dr. B. C. Roy Engineering College       │
+│  📍 LOCATION    → West Bengal, India                            │
+│  🚀 MISSION     → Build intelligent systems that solve problems │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+> **Building intelligent systems, experimenting with AI, and turning data into useful products.**
+
+---
+
+## ⚡ `~/about-me`
 
 ```python
-ayan = {
-    "name": "Ayan Ghosh",
-    "role": "AI/ML Engineer",
-    "location": "West Bengal, India",
-    "education": "MCA @ Dr. B. C. Roy Engineering College",
-    "focus": [
+class AyanGhosh:
+
+    name = "Ayan Ghosh"
+    role = "AI/ML Engineer"
+    location = "West Bengal, India"
+
+    education = {
+        "degree": "Master of Computer Application",
+        "college": "Dr. B. C. Roy Engineering College",
+        "period": "2025 - 2027"
+    }
+
+    focus = [
         "Artificial Intelligence",
         "Machine Learning",
         "Deep Learning",
         "Computer Vision",
         "Data Science"
-    ],
-    "primary_language": "Python",
-    "currently_learning": [
+    ]
+
+    primary_language = "Python"
+
+    currently_learning = [
         "Advanced Machine Learning",
         "Deep Learning",
         "Generative AI",
         "AI Engineering"
-    ],
-    "mindset": "Build → Experiment → Learn → Improve"
-}
+    ]
+
+    philosophy = "Build → Experiment → Learn → Improve"
 ```
 
 ---
 
-## `~/tech-stack`
+# 🧠 `~/tech-stack`
 
-### 🧠 AI / Machine Learning
+## 🤖 AI / Machine Learning
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
 </p>
 
-### 💻 Programming
-
-<p>
-  <img src="https://img.shields.io/badge/Python-Expert%20Focus-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/DSA-Algorithmic%20Thinking-222222?style=flat-square" />
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
 </p>
 
-### 🗄️ Database
+## 💻 Programming
 
-<p>
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp" />
 </p>
 
-### 🛠️ Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/DSA-Algorithmic%20Thinking-111827?style=for-the-badge" />
+</p>
 
-<p>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+## 🗄️ Database
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+## 🛠️ Developer Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
 </p>
 
 ---
 
-## `~/featured-projects`
+# 🚀 `~/featured-projects`
 
-### 🧠 Emotion Detection using CNN
+## 🧠 Emotion Detection using CNN
 
-> **Deep Learning · Computer Vision · Transfer Learning**
+> **Deep Learning • Computer Vision • Transfer Learning**
 
-Built a multi-class emotion detection system using CNN-based deep learning and transfer learning.
+A deep learning-based emotion detection system for multi-class emotion classification.
 
-**Highlights**
+### 🔥 Highlights
 
-* 🧠 CNN-based emotion classification
-* ⚡ ResNet50V2 feature extraction
-* 🔥 VGG16 experimentation
+* 🧠 CNN-based classification
+* ⚡ ResNet50V2
+* 🔥 VGG16
 * 🖼️ Image augmentation
 * ⚖️ Class balancing
 * 🎯 **66% classification accuracy**
-* 🚀 Gradio interface for real-time predictions
+* 🚀 Gradio real-time interface
 
-**Stack**
+### 🧰 Stack
 
 `Python` `TensorFlow` `Keras` `OpenCV` `CNN` `ResNet50V2` `VGG16` `Gradio`
 
 ---
 
-### 🚢 Titanic Survival Prediction
+## 🚢 Titanic Survival Prediction
 
-> **Machine Learning · Classification · Explainable AI**
+> **Machine Learning • Classification • Explainable AI**
 
-Machine learning system designed to predict passenger survival from Titanic passenger data.
+Machine learning system for predicting passenger survival using Titanic passenger data.
 
-**Highlights**
+### 🔥 Highlights
 
-* Data preprocessing
-* Feature engineering
-* Classification modeling
-* Model evaluation
-* Prediction explainability interface
+* 🧹 Data preprocessing
+* ⚙️ Feature engineering
+* 🤖 Classification
+* 📊 Model evaluation
+* 🔍 Prediction explainability
+* 📈 Data-driven analysis
 
-**Stack**
-
-`Python` `Pandas` `NumPy` `scikit-learn` `Machine Learning`
-
----
-
-### 🎬 Movie Rating Prediction
-
-> **Machine Learning · Data Analysis · Prediction**
-
-Machine learning application for predicting movie ratings using historical movie-related data.
-
-**Highlights**
-
-* Data preprocessing
-* Feature preparation
-* Exploratory data analysis
-* Machine learning modeling
-* Interactive prediction application
-* Deployment-oriented workflow
-
-**Stack**
+### 🧰 Stack
 
 `Python` `Pandas` `NumPy` `scikit-learn`
 
 ---
 
-## `~/experience`
+## 🎬 Movie Rating Prediction
 
-### 🤖 Artificial Intelligence Intern — Edunet Foundation
+> **Machine Learning • Data Analysis • Prediction**
 
-**July 2026 – Present · Remote**
+Machine learning application for predicting movie ratings from historical movie-related data.
 
-Working across:
+### 🔥 Highlights
 
-* Artificial Intelligence
-* Machine Learning
-* Deep Learning
-* Data preprocessing
-* Feature engineering
-* Classification
-* Predictive modeling
-* AI-based problem solving
+* 🧹 Data preprocessing
+* 📊 Data analysis
+* ⚙️ Feature preparation
+* 🤖 Machine learning
+* 🎯 Prediction system
+* 🚀 Interactive application
 
-Technologies include:
+### 🧰 Stack
+
+`Python` `Pandas` `NumPy` `scikit-learn`
+
+---
+
+# 💼 `~/experience`
+
+## 🤖 Artificial Intelligence Intern — Edunet Foundation
+
+`July 2026 – Present` • `Remote`
+
+```text
+AI
+ ├── Artificial Intelligence
+ ├── Machine Learning
+ ├── Deep Learning
+ ├── Data Preprocessing
+ ├── Feature Engineering
+ ├── Classification
+ ├── Predictive Modeling
+ └── AI Problem Solving
+```
+
+### Technologies
 
 `Python` `NumPy` `Pandas` `scikit-learn` `TensorFlow` `Keras`
 
 ---
 
-### 📊 Data Science Intern — CodSoft
+## 📊 Data Science Intern — CodSoft
 
-**July 2026 – Present · Remote**
+`July 2026 – Present` • `Remote`
 
-Working on:
+```text
+Data Science
+ ├── Data Preprocessing
+ ├── Exploratory Data Analysis
+ ├── Data Visualization
+ ├── Feature Engineering
+ ├── Machine Learning
+ ├── Model Training
+ └── Model Evaluation
+```
 
-* Data preprocessing
-* Exploratory Data Analysis
-* Data visualization
-* Feature engineering
-* Machine learning
-* Model training
-* Model evaluation
-* Statistical analysis
+### Technologies
+
+`Python` `Pandas` `NumPy` `Matplotlib` `scikit-learn`
 
 ---
 
-## `~/education`
+# 🎓 `~/education`
 
-🎓 **Master of Computer Application — MCA**
+### 🎓 Master of Computer Application — MCA
 
 **Dr. B. C. Roy Engineering College, Durgapur**
 
-`2025 – 2027` · CGPA: **8.2**
+`2025 – 2027` • **CGPA: 8.2**
 
-🎓 **Bachelor of Computer Applications — BCA**
+### 🎓 Bachelor of Computer Applications — BCA
 
 **The University of Burdwan**
 
-`2022 – 2025` · **59.7%**
+`2022 – 2025` • **59.7%**
 
 ---
 
-## `~/certifications`
+# 🏆 `~/certifications`
 
-| Certification                                        | Platform   |
-| ---------------------------------------------------- | ---------- |
-| 🐍 Python (Basic)                                    | HackerRank |
-| 🗄️ SQL (Basic)                                      | HackerRank |
-| 🤖 Artificial Intelligence Fundamentals              | IBM        |
-| 🧠 AI Fundamentals: Foundations for Understanding AI | IBM        |
+| 🏅 Certification                                     | 🏢 Platform |
+| ---------------------------------------------------- | ----------- |
+| 🐍 Python (Basic)                                    | HackerRank  |
+| 🗄️ SQL (Basic)                                      | HackerRank  |
+| 🤖 Artificial Intelligence Fundamentals              | IBM         |
+| 🧠 AI Fundamentals: Foundations for Understanding AI | IBM         |
 
 ---
 
-## `~/developer-philosophy`
+# 📊 `~/github-stats`
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayanmca2026&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanmca2026&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="180" />
+</p>
+
+---
+
+# 🔥 `~/github-streak`
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ayanmca2026&theme=tokyonight&hide_border=true&mode=weekly" width="75%" />
+</p>
+
+---
+
+# 🏆 `~/github-trophies`
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ayanmca2026&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" />
+</p>
+
+---
+
+# 📈 `~/activity`
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayanmca2026&theme=tokyo-night&hide_border=true&area=true&custom_title=Ayan%20Ghosh%20%E2%80%94%20Contribution%20Graph" width="100%" />
+</p>
+
+---
+
+# 🧩 `~/current-focus`
 
 ```text
-┌─────────────────────────────────────────────────────────┐
-│                    DEVELOPER LOOP                       │
-├─────────────────────────────────────────────────────────┤
-│                                                         │
-│       THINK  →  BUILD  →  TEST  →  LEARN  →  IMPROVE  │
-│          ↑                                      │        │
-│          └──────────────────────────────────────┘        │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│                     CURRENT FOCUS                            │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  🐍 Python              ████████████████████░░   90%          │
+│  🤖 Machine Learning    ██████████████████░░░░   85%          │
+│  🧠 Deep Learning       █████████████████░░░░░   80%          │
+│  👁️ Computer Vision     ███████████████░░░░░░░   75%          │
+│  ⚙️ AI Engineering      ██████████████░░░░░░░░   70%          │
+│  ✨ Generative AI       ████████████░░░░░░░░░░   65%          │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
-> **"Don't just build models. Build solutions."**
+### 🔭 Currently Exploring
 
-I believe good AI engineering is more than achieving a high accuracy score.
-
-It is about understanding the problem, preparing quality data, designing reliable models, evaluating results, and turning experiments into usable applications.
+* 🧠 Advanced Machine Learning
+* 🔥 Deep Learning architectures
+* 👁️ Computer Vision
+* ✨ Generative AI
+* 🤖 AI-powered applications
+* ☁️ Production-ready ML workflows
+* ⚙️ AI Engineering
 
 ---
 
-## `~/current-focus`
+# 🧠 `~/developer-philosophy`
 
 ```text
-[████████████████████░░] 90%  Python
-[██████████████████░░░░] 85%  Machine Learning
-[█████████████████░░░░░] 80%  Deep Learning
-[███████████████░░░░░░░] 75%  Computer Vision
-[██████████████░░░░░░░░] 70%  AI Engineering
-[████████████░░░░░░░░░░] 65%  Generative AI
+                     ┌─────────────┐
+                     │    THINK    │
+                     └──────┬──────┘
+                            │
+                            ▼
+                     ┌─────────────┐
+                     │    BUILD    │
+                     └──────┬──────┘
+                            │
+                            ▼
+                     ┌─────────────┐
+                     │    TEST     │
+                     └──────┬──────┘
+                            │
+                            ▼
+                     ┌─────────────┐
+                     │    LEARN    │
+                     └──────┬──────┘
+                            │
+                            ▼
+                     ┌─────────────┐
+                     │   IMPROVE   │
+                     └──────┬──────┘
+                            │
+                            └───────────────↺
 ```
 
-Currently exploring:
+> ## 💡 "Don't just build models. Build solutions."
 
-* Advanced Machine Learning
-* Deep Learning architectures
-* Computer Vision
-* Generative AI
-* AI-powered applications
-* Production-ready ML workflows
+Good AI engineering is not only about achieving a high accuracy score.
+
+It is about:
+
+```text
+                 ┌─────────────────┐
+                 │     PROBLEM     │
+                 └────────┬────────┘
+                          ↓
+                 ┌─────────────────┐
+                 │   UNDERSTAND    │
+                 └────────┬────────┘
+                          ↓
+                 ┌─────────────────┐
+                 │   COLLECT DATA  │
+                 └────────┬────────┘
+                          ↓
+                 ┌─────────────────┐
+                 │    CLEAN DATA   │
+                 └────────┬────────┘
+                          ↓
+                 ┌─────────────────┐
+                 │ ENGINEER FEATURE│
+                 └────────┬────────┘
+                          ↓
+                 ┌─────────────────┐
+                 │   TRAIN MODEL   │
+                 └────────┬────────┘
+                          ↓
+                 ┌─────────────────┐
+                 │    EVALUATE     │
+                 └────────┬────────┘
+                          ↓
+                 ┌─────────────────┐
+                 │     DEPLOY      │
+                 └────────┬────────┘
+                          ↓
+                 ┌─────────────────┐
+                 │     IMPROVE     │
+                 └────────┴────────┐
+                                  ↺
+```
 
 ---
 
-## `~/github-stats`
+# 🖥️ `~/terminal`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayanmca2026&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanmca2026&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</p>
+```bash
+ayan@github:~$ whoami
+
+ayan-ghosh
+
+ayan@github:~$ role
+
+AI/ML Engineer
+
+ayan@github:~$ primary-stack
+
+Python • Machine Learning • Deep Learning • Computer Vision
+
+ayan@github:~$ mission
+
+Build intelligent systems that solve real-world problems.
+
+ayan@github:~$ status
+
+[✓] Learning
+[✓] Building
+[✓] Experimenting
+[✓] Deploying
+[✓] Improving
+
+ayan@github:~$ next-goal
+
+Build production-ready AI systems 🚀
+
+ayan@github:~$ echo $MINDSET
+
+Think → Build → Test → Learn → Improve
+
+ayan@github:~$ exit
+
+Thanks for visiting my profile. 👋
+```
 
 ---
 
-## `~/streak`
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ayanmca2026&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## `~/activity`
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayanmca2026&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
-
----
-
-## `~/connect`
+# 🌐 `~/connect`
 
 <p align="center">
 
 <a href="https://github.com/ayanmca2026">
-<img src="https://img.shields.io/badge/GitHub-ayanmca2026-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-ayanmca2026-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </p>
 
 ---
 
-## `~/terminal`
+# ⭐ `~/support`
 
-```bash
-$ whoami
+<p align="center">
 
-ayan-ghosh
+### ⭐ If you like my work, consider giving my repositories a star!
 
-$ role
+**Every star motivates me to build better AI systems. 🤖**
 
-AI/ML Engineer
-
-$ mission
-
-Build intelligent systems that solve real problems.
-
-$ stack
-
-Python • Machine Learning • Deep Learning • Computer Vision
-
-$ status
-
-Learning. Building. Deploying. 🚀
-
-$ exit
-
-Thanks for visiting my profile.
-```
+</p>
 
 ---
 
 <p align="center">
 
-### ⭐ If you find my projects useful, consider giving them a star!
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║                 BUILD • LEARN • SHIP • REPEAT                ║
+║                                                              ║
+║                    AI IS THE JOURNEY 🚀                      ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-**Building the future, one intelligent system at a time. 🚀**
+### 🚀 Building the future, one intelligent system at a time.
+
+**© 2026 Ayan Ghosh**
 
 </p>
 
-<p align="center">
-  <sub>© 2026 Ayan Ghosh · AI/ML Engineer</sub>
-</p>
 
 
 
