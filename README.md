@@ -1,105 +1,383 @@
 <div align="center">
 
-# <h1 align="center">Hi there, I'm Ayan Ghosh 👋</h1>
+# 👋 Hi, I'm Ayan Ghosh
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=2ECC71&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer;Python+Developer;Data+Science+Enthusiast;Full-Stack+AI+Developer" alt="Typing SVG" />
+### AI/ML Engineer • Python Developer • Data Science Enthusiast
 
-**Building AI-powered, data-driven, and full-stack software solutions.**
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=2ECC71&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;Machine+Learning+Developer;Python+Developer;Deep+Learning+Enthusiast;Computer+Vision+Developer;Data+Science+Enthusiast" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://github.com/ayanmca2026"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<p>
+  <strong>
+    Building intelligent solutions with Machine Learning, Deep Learning, Python and Data Science.
+  </strong>
 </p>
 
+<p>
+  <a href="https://github.com/ayanmca2026">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ayan721232ghosh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=ayanmca2026&label=PROFILE+VIEWS&color=2ECC71&style=for-the-badge" alt="Profile Views"/>
+
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-I am an **AI/ML Engineer and Full-Stack Developer** passionate about bridging the gap between advanced machine learning models and practical, user-facing applications. I specialize in building end-to-end intelligent systems, from data wrangling and model training in Python to deploying scalable interfaces using modern web technologies. 
+I'm an **AI/ML Engineer and Python Developer** focused on building practical,
+data-driven intelligent applications.
 
-- 🧠 **Focus:** Machine Learning, Deep Learning, Computer Vision, and Generative AI.
-- ⚙️ **Engineering:** Translating complex data into actionable insights and robust software.
-- 🚀 **Mission:** Solving real-world problems through data science and intelligent automation.
+Currently pursuing my **Master of Computer Application (MCA)** at
+**Dr. B. C. Roy Engineering College, Durgapur**, while gaining practical
+experience through Artificial Intelligence and Data Science internships.
 
----
+My interests include **Machine Learning, Deep Learning, Computer Vision,
+Data Science and AI-powered applications**.
 
-## 🛠️ Tech Stack
+### 🚀 What I Work On
 
-### Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### AI, ML & Data Science
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Web & Deployment
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+* 🤖 Machine Learning & Artificial Intelligence
+* 🧠 Deep Learning & CNN
+* 👁️ Computer Vision
+* 🐍 Python Development
+* 📊 Data Analysis & Visualization
+* 🔍 Feature Engineering
+* 📈 Predictive Modeling
+* 🧪 Model Training & Evaluation
+* 🌐 AI Application Development
 
 ---
 
-## 🌟 Featured Projects
+## 🎓 Education
 
-| Project | Description | Live Demo | Repository |
-|---------|-------------|-----------|------------|
-| **[AI Travel Planner](https://github.com/ayanmca2026/ai-travel-planner)** | A modern web application built with TypeScript and Next.js that leverages AI to generate optimized travel itineraries. | [🌍 View App](https://ai-travel-planner-puce-three.vercel.app/) | [💻 Code](https://github.com/ayanmca2026/ai-travel-planner) |
-| **[Titanic Survival Prediction](https://github.com/ayanmca2026/Titanic-Survival-ML)** | Production-quality Machine Learning application for predicting Titanic survivor probabilities with data explainability. | [🚢 View App](https://titanic-survival-ml-79yyt7pu2hncochlhcydjz.streamlit.app/Explainability) | [💻 Code](https://github.com/ayanmca2026/Titanic-Survival-ML) |
-| **[Emotion Detection](https://github.com/ayanmca2026/emotion-detection)** | Computer Vision system using Convolutional Neural Networks (CNN) and the FER-2013 dataset to detect facial emotions in real-time. | [😊 View App](https://emotion-detection-phi-tan.vercel.app) | [💻 Code](https://github.com/ayanmca2026/emotion-detection) |
-| **[Iris Flower Classification](https://github.com/ayanmca2026/iris-flower-classification)** | Production-grade data science project demonstrating classification techniques on the classic Iris dataset. | [🌸 View App](https://iris-flower-classification-peach.vercel.app) | [💻 Code](https://github.com/ayanmca2026/iris-flower-classification) |
+<table>
+<tr>
+<th>Degree</th>
+<th>Institution</th>
+<th>Duration</th>
+<th>Result</th>
+</tr>
+
+<tr>
+<td>🎓 MCA</td>
+<td>Dr. B. C. Roy Engineering College, Durgapur</td>
+<td>2025 – 2027</td>
+<td><b>CGPA: 8.2</b></td>
+</tr>
+
+<tr>
+<td>🎓 BCA</td>
+<td>The University of Burdwan</td>
+<td>2022 – 2025</td>
+<td><b>59.7%</b></td>
+</tr>
+
+<tr>
+<td>🏫 Higher Secondary</td>
+<td>Marh Gopalpur S.B High School (H.S)</td>
+<td>2021 – 2022</td>
+<td><b>83%</b></td>
+</tr>
+
+<tr>
+<td>🏫 Secondary</td>
+<td>Marh Gopalpur S.B High School (H.S)</td>
+<td>2019 – 2020</td>
+<td><b>64%</b></td>
+</tr>
+</table>
 
 ---
 
-## 🧠 AI / ML Problem Solving
+# 💼 Experience
 
-A core part of my portfolio involves training and evaluating models to solve precise predictive tasks:
+### 🤖 Artificial Intelligence Intern
 
-- **Credit Card Fraud Detection AI:** Engineered an end-to-end anomaly detection system to identify fraudulent transactions with high precision, addressing significant class imbalance. ([Repo](https://github.com/ayanmca2026/credit-card-fraud-detection-ai))
-- **Product Sales Prediction:** Developed a regression model estimating product sales performance based on advertising spend channels. ([Repo](https://github.com/ayanmca2026/sales-prediction))
-- **Movie Rating Prediction:** Analyzed cinematic data features to build an ML model capable of forecasting audience ratings. ([Demo](https://movie-rating-prediction-546wbugx4tfuzkclhitbo2.streamlit.app/) | [Repo](https://github.com/ayanmca2026/movie-rating-prediction))
+**Edunet Foundation | Remote | July 2026 – Present**
+
+* Worked with Artificial Intelligence, Machine Learning and Deep Learning concepts.
+* Applied **Python, NumPy, Pandas, scikit-learn, TensorFlow and Keras**.
+* Performed data preprocessing and model development.
+* Worked with model training and evaluation workflows.
+* Explored classification and predictive modeling techniques.
+* Developed AI/ML solutions for practical problem statements.
+
+### 📊 Data Science Intern
+
+**CodSoft | Remote | July 2026 – Present**
+
+* Performed data preprocessing and exploratory data analysis.
+* Created data visualizations using **Pandas, NumPy and Matplotlib**.
+* Applied Machine Learning algorithms to classification and prediction problems.
+* Performed feature engineering and model training.
+* Evaluated Machine Learning model performance.
+* Analyzed patterns, trends and correlations within datasets.
 
 ---
 
-## 🎯 What I'm Building (Career Positioning)
+# 🛠️ Tech Stack
 
-My ongoing development journey is heavily focused on the intersection of **AI and Full-Stack Engineering**. I am constantly striving to:
-- Build **Agentic AI** systems that operate autonomously.
-- Seamlessly deploy ML models via REST APIs (e.g., **FastAPI**).
-- Scale full-stack AI applications with optimized cloud deployment pipelines.
-- Integrate **Generative AI** directly into intuitive user interfaces.
+### 👨‍💻 Programming
 
-### 📚 Currently Learning
-`Advanced Machine Learning` | `Generative AI` | `Agentic AI` | `FastAPI` | `MLOps` | `Cloud Deployment`
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp" />
+</p>
+
+`Python` `Java` `C` `C++` `DSA`
+
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+</p>
+
+`Scikit-Learn` `TensorFlow` `Keras` `OpenCV`
+
+**Machine Learning • Deep Learning • CNN • Transfer Learning • Classification • Predictive Modeling**
+
+### 📊 Data Science
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+`Pandas` `NumPy` `Matplotlib`
+
+**Data Preprocessing • EDA • Data Visualization • Feature Engineering • Statistical Analysis**
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+`SQL` `MySQL`
+
+### 🔧 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+</p>
+
+`Git` `GitHub` `VS Code` `Jupyter Notebook`
 
 ---
 
-## 📈 GitHub Analytics
+# 🚀 Featured Projects
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayanmca2026&show_icons=true&theme=nord&hide_border=true&bg_color=0D1117&title_color=2ECC71&text_color=C9D1D9&icon_color=2ECC71" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanmca2026&layout=compact&theme=nord&hide_border=true&bg_color=0D1117&title_color=2ECC71&text_color=C9D1D9" />
+
+| Project                        | Technology                  | Focus           |
+| ------------------------------ | --------------------------- | --------------- |
+| 😊 Emotion Detection           | TensorFlow • Keras • OpenCV | Computer Vision |
+| 🚢 Titanic Survival Prediction | Python • Scikit-Learn       | Classification  |
+| 🎬 Movie Rating Prediction     | Python • Scikit-Learn       | Regression      |
+| 🌍 AI Travel Planner           | TypeScript • Next.js • AI   | Full-Stack AI   |
+| 🌸 Iris Classification         | Python • Scikit-Learn       | Classification  |
+
 </div>
 
-<br />
+---
+
+## 😊 Emotion Detection using CNN
+
+**Python • TensorFlow • Keras • OpenCV • CNN • ResNet50V2 • VGG16**
+
+Deep Learning-based facial emotion classification system using CNN and
+transfer learning.
+
+### Key Highlights
+
+* Implemented **ResNet50V2** and **VGG16**.
+* Applied image augmentation.
+* Used class balancing during training.
+* Achieved **66% classification accuracy**.
+* Built a **Gradio-based interface** for real-time emotion detection.
+
+🔗 **Repository:**
+https://github.com/ayanmca2026/emotion-detection
+
+---
+
+## 🚢 Titanic Survival Prediction
+
+**Python • Pandas • NumPy • Scikit-Learn • Machine Learning**
+
+Machine Learning classification system for predicting passenger survival.
+
+### Key Highlights
+
+* Data preprocessing
+* Feature engineering
+* Classification
+* Model evaluation
+* Prediction explainability
+
+🔗 **Repository:**
+https://github.com/ayanmca2026/Titanic-Survival-ML
+
+🔗 **Live Demo:**
+https://titanic-survival-ml-79yyt7pu2hncochlhcydjz.streamlit.app/Explainability
+
+---
+
+## 🎬 Movie Rating Prediction
+
+**Python • Pandas • NumPy • Scikit-Learn**
+
+Machine Learning application for predicting movie ratings from historical
+movie-related data.
+
+### Key Highlights
+
+* Data preprocessing
+* Feature preparation
+* Data analysis
+* Machine Learning modeling
+* Interactive prediction application
+* Deployment
+
+🔗 **Repository:**
+https://github.com/ayanmca2026/movie-rating-prediction
+
+🔗 **Live Demo:**
+https://movie-rating-prediction-546wbugx4tfuzkclhitbo2.streamlit.app/
+
+---
+
+# 🌐 Full-Stack AI Project
+
+## 🌍 AI Travel Planner
+
+AI-powered travel planning application designed to generate personalized
+travel itineraries.
+
+**Technology:** TypeScript • Next.js • AI • Full-Stack Development
+
+🔗 **Repository:**
+https://github.com/ayanmca2026/ai-travel-planner
+
+🔗 **Live Demo:**
+https://ai-travel-planner-puce-three.vercel.app/
+
+---
+
+# 🌸 Iris Flower Classification
+
+Machine Learning classification project using the classic Iris dataset.
+
+🔗 **Repository:**
+https://github.com/ayanmca2026/iris-flower-classification
+
+🔗 **Live Demo:**
+https://iris-flower-classification-peach.vercel.app/
+
+---
+
+# 🧠 Other Machine Learning Projects
+
+### 💳 Credit Card Fraud Detection AI
+
+Anomaly detection project focused on identifying fraudulent transactions.
+
+🔗 https://github.com/ayanmca2026/credit-card-fraud-detection-ai
+
+### 📈 Product Sales Prediction
+
+Regression-based Machine Learning project for predicting product sales.
+
+🔗 https://github.com/ayanmca2026/sales-prediction
+
+---
+
+# 🏆 Certifications
+
+* 🐍 **Python (Basic)** — HackerRank
+* 🗄️ **SQL (Basic)** — HackerRank
+* 🤖 **Artificial Intelligence Fundamentals** — IBM
+* 🧠 **AI Fundamentals: Foundations for Understanding AI** — IBM
+
+---
+
+# 🎯 Current Focus
+
+I'm building toward a career as an **AI/ML Engineer** with strong
+software development capabilities.
+
+### Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Machine%20Learning-Advanced-2ECC71?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative%20AI-Learning-2ECC71?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic%20AI-Learning-2ECC71?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FastAPI-Learning-2ECC71?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MLOps-Learning-2ECC71?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud-Learning-2ECC71?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayanmca2026&bg_color=0D1117&color=2ECC71&line=2ECC71&point=FFFFFF&area=true&hide_border=true" width="100%" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ayanmca2026&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2ECC71&text_color=C9D1D9&icon_color=2ECC71" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanmca2026&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2ECC71&text_color=C9D1D9" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayanmca2026&bg_color=0D1117&color=2ECC71&line=2ECC71&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ayanmca2026/ayanmca2026/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+
+</div>
+
+---
+
+# 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/ayanmca2026">
+<img src="https://img.shields.io/badge/GitHub-ayanmca2026-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:ayan721232ghosh@gmail.com">
+<img src="https://img.shields.io/badge/Email-ayan721232ghosh%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
 <div align="center">
-  <p><i>Building the future, one line of code at a time.</i></p>
+
+### 🚀 Building AI. Solving Problems. Creating Impact.
+
+**⭐ Explore my repositories and follow my journey in AI/ML.**
+
 </div>
+
